@@ -1,4 +1,3 @@
-import React from 'react'
 import video1 from '../assets/video1.mp4'
 import video2 from '../assets/video2.mp4'
 
@@ -16,7 +15,7 @@ function Section() {
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                 </p>
                 <div className="flex justify-center my-10">
-                    <a href="#" className='bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-4 rounded-md hover:border hover:bg-none'> Commençons </a>
+                    <a href="#" className='bg-gradient-to-r from-orange-500 to-orange-800 py-4 px-3 mx-3 rounded-md hover:border hover:bg-none'> Commençons </a>
                     <a href="#" className="px-3 py-4 mx-3 rounded-md border hover:bg-gradient-to-r from-orange-500 to-orange-900"> Documentation </a>
                 </div>
 
